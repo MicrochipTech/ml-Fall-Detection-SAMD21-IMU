@@ -57,15 +57,6 @@ In addition, the firmware also prints the classification output for each inferen
 - Stop bits 1
 - Parity None
 
-
-## Performing Gestures
-Gestures should be performed in a way that feels natural, using a thumb and index finger grip around the SAMD21 board as shown in the image below. The top of the board should be facing away from the user, with the USB connector oriented towards the ground.
-
-| ![Thumb and index finger grip](assets/thumb-forefinger-grip.jpg) |
-| :--: |
-| Thumb and index finger grip |
-
-
 ## Classifier Performance
 Below is the confusion matrix for the test dataset. Note that the classes are imbalanced so accuracy is not a good indicator of overall performance.
 
